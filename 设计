@@ -1,0 +1,17 @@
+
+#include <iostream>
+using namespace std;
+int main() {
+	cout<<"Hello,gdufs!\n";
+	cout<<"0000000000          0000000000          0000000000\n"; 
+	cout<<"0                            0          0        0\n";
+	cout<<"0                            0          0        0\n";
+	cout<<"0                            0          0        0\n";
+	cout<<"0000000000          0000000000          0        0\n";
+  cout<<"         0          0                   0        0\n"; 
+  cout<<"         0          0                   0        0\n"; 
+  cout<<"         0          0                   0        0\n"; 
+  cout<<"0000000000          0000000000          0000000000\n";
+  cout<<"                                                            欢迎来到广东外语外贸大学！\n"<<"                                                            林玉兰1803" ;
+	return 0;
+}
